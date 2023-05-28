@@ -1,0 +1,1 @@
+visible = collision_visibility;
